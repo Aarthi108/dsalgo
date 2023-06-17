@@ -11,8 +11,8 @@ import org.openqa.selenium.support.PageFactory;
 
 import org.testng.Assert;
 
+import FacDrivers.DriverFactory;
 import allhooks.hooks;
-import utilities.DriverFactory;
 import utilities.LoggerLoad;
 import utilities.ConfigFileReader;
 
@@ -67,6 +67,9 @@ public class homepage {
 	public void getstarted()
 		{
 		getstartedBtn.click();
+	}
+	public void homeurl() {
+		driver.get(homePageurl);
 	}
 	
 	public void reDirectedHome()
@@ -161,6 +164,10 @@ public class homepage {
 			RegisterBtn.click();
 			TimeUnit.SECONDS.sleep(5);
 			driver.navigate().back();
+		}
+		public String getTitleofPage() {
+			String title=driver.getTitle();
+			return title;
 		}
 		
 	}

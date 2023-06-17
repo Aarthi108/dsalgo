@@ -9,8 +9,8 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import FacDrivers.DriverFactory;
 import utilities.ConfigFileReader;
-import utilities.DriverFactory;
 
 import org.openqa.selenium.JavascriptExecutor;
 
@@ -28,6 +28,7 @@ public class datastructure {
 	@FindBy(xpath ="//form/div/div/div/textarea")WebElement  datatextbar ;
 	@FindBy(xpath ="//button[text()='Run']")WebElement  Runbutton ;
 	@FindBy(xpath = "//*[@href=\"/home\"]") WebElement homePageReDirected;
+	@FindBy(xpath="//div//pre[@id=\"output\"]")WebElement output;
 	
 	
 	@FindBy(xpath = "//div[2][@class='col' ]//a[text()='Get Started']")WebElement arraygetstarted;
@@ -57,6 +58,10 @@ public class datastructure {
 		
 		
 //	}
+	 public void homeredirect()
+		{
+			driver.get(homePageurl);
+		}
 	public void dataGetStart()
 	{
 		datagetstarted.click();
@@ -78,6 +83,19 @@ public class datastructure {
 	{
 		Runbutton.click();
 	}
-	
+	public void output()
+	{
+		output.getText();
+	}
+	public String Fetcherrormessage()
+	{
+	String errorMessage=driver.switchTo().alert().getText();
+	driver.switchTo().alert().accept();
+	return errorMessage;
+	}
+	public String getTitle() {
+		String title = driver.getTitle();
+		return title;
+	}
 
 }

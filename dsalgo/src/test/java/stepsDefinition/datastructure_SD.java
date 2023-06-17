@@ -1,4 +1,5 @@
 package stepsDefinition;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
@@ -8,7 +9,9 @@ import static org.testng.Assert.assertEquals;
 import java.io.IOException;
 import java.util.List;
 import java.util.Map;
+import utilities.Utility_Methods;
 
+import org.apache.poi.EncryptedDocumentException;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 
 
@@ -20,7 +23,12 @@ import utilities.ConfigFileReader;
 import utilities.ExcelReader;
 
 public class datastructure_SD {
+	Utility_Methods util=new Utility_Methods();
 	private datastructure data = new datastructure();
+	static String Pythoncode;
+	static String Output;
+	static String ExpectedResult,ExpectedError,expMsg;
+	String Excelpath=ConfigFileReader.getexcelfilepath();
 	
 	@Given("The user is on the {string} after logged in")
 	public void the_user_is_on_the_after_logged_in(String string) throws Exception {
@@ -70,17 +78,32 @@ public class datastructure_SD {
 	@Then("The user should be presented with Run result")
 	public void the_user_should_be_presented_with_run_result() {
 		
-	   
-	}
+		data.output();
+		data.homeredirect();
+	   }
 
-	@When("The user enter python code with invalid syntax in tryEditor from {string} and {int}")
-	public void the_user_enter_python_code_with_invalid_syntax_in_try_editor_from_and(String string, Integer int1) {
-	    
-	}
+	
 
-	@Then("The user should be presented with error message")
-	public void the_user_should_be_presented_with_error_message() {
-	    
-	}
+//	@When("The user enter python code with invalid syntax in tryEditor from {string} and {int}")
+//	public void the_user_enter_python_code_with_invalid_syntax_in_try_editor_from(String SheetName, Integer RowNumber)throws InterruptedException, RuntimeException, IOException {
+//		LoggerLoad.info("User is on Try Editor page");
+//		ExcelReader reader = new ExcelReader();
+//
+//		List<Map<String, String>> testdata = reader.getData(Excelpath, SheetName);
+//		Pythoncode = testdata.get(RowNumber).get("Pythoncode");
+//		ExpectedResult=testdata.get(RowNumber).get("Output");
+//		LoggerLoad.info("Expected Result is "+ExpectedResult);
+//	
+//		LoggerLoad.info("User enters PythonCode as \" " + Pythoncode);
+//		if ( Pythoncode!= null )
+//			data.tryEditor(Pythoncode);
+//	    
+//	}
+//
+//	@Then("The user should be presented with error message")
+//	public void the_user_should_be_presented_with_error_message() {
+//		data.Fetcherrormessage();
+//	    
+//	}
 
 }

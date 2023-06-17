@@ -13,7 +13,6 @@ import java.util.Map;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.testng.Assert;
 
-import utilities.DriverFactory;
 import utilities.LoggerLoad;
 
 import pageObjects.registerpage;
