@@ -9,7 +9,6 @@ import org.testng.annotations.Test;
 
 import FacDrivers.DriverFactory;
 import utilities.ConfigFileReader;
-
 import org.openqa.selenium.JavascriptExecutor;
 
 
@@ -17,7 +16,18 @@ public class arraypage {
 	
 	
 	public static WebDriver driver = DriverFactory.getDriver();;
+	
 	String homePageurl=ConfigFileReader.gethomePage();
+	String arrayPageurl =ConfigFileReader.arrayPageURL();
+	String arrayinphython =ConfigFileReader.ArraysinPythonpageurl();
+	String arrayinphythontryEditor =ConfigFileReader.tryEditorURL();
+	String arraylistpage =ConfigFileReader.arraylisturl();
+	String arraybasicoperationpage =ConfigFileReader.arraybasicoperationutl();
+	String arrayaplicationspage =ConfigFileReader.arrayapplicationurl();
+	String arraypracticepage =ConfigFileReader.arraypracticepageurl();
+	String arryauestionpage =ConfigFileReader.arrayquestionurl();
+//	String QuestionFindNumberswithEvenNumberofDigits =ConfigFileReader.ArrayQNumberswithEvenNumberofDigitsurl();
+	String QuestionSquaresofaSortedArrayurlpage =ConfigFileReader.QuestionSquaresofaSortedArrayurl();
 	@FindBy(id="id_username")WebElement Username;
 	@FindBy(id="id_password")WebElement currentpassword;
 	@FindBy(xpath = "//input[@value='Login']")WebElement loginBtn;
@@ -43,7 +53,7 @@ public class arraypage {
 	}
 	public void homeredirect()
 	{
-		driver.get(homePageurl);
+		driver.get(arrayPageurl);
 	}
 	public void arrayGetStarted()
 	{
@@ -51,7 +61,7 @@ public class arraypage {
 	}
 	public void Arraypython()
 	{
-		ArraysInPython.click();
+		driver.get(arrayinphython);
 	}
 	public void Tryherebtn()
 	{
@@ -76,7 +86,7 @@ public class arraypage {
 	
 	public void ArrayUsingList()
 	{
-		ArraysUsingList.click();
+		driver.get(arraylistpage);
 	}
 	public String fetchErrorMessage()
 	{
@@ -86,18 +96,20 @@ public class arraypage {
 	}
 	public void Basic_Operations_In_Lists()
 	{
-		BasicOperationsInLists.click();
+		driver.get(arraybasicoperationpage);
+		
 	}
 	public void Applications_of_Array()
 	{
-		ApplicationsofArray.click();
+		driver.get(arrayaplicationspage);
 	}
 	public void practice_questions()
 	{
-		practicequestions.click();
+		driver.get(arraypracticepage);
 	}
 	public void Search_the_array()
 	{
 		Searchthearray.click();
 	}
+	
 }

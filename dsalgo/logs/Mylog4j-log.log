@@ -3509,3 +3509,209 @@
 ['INFO ]2023-06-15 21:13:18,877(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the user is in the home page after logged in
 ['INFO ]2023-06-15 21:13:18,879(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the user clicksTry Hereand Time Complexity
 ['INFO ]2023-06-15 21:13:18,880(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on TryEditorpage
+['INFO ]2023-06-19 13:10:28,482(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-19 13:10:28,560(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-19 13:10:28,560(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-19 13:10:28,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-19 13:10:40,502(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-19 13:10:41,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user clicks get started buttonGet Startedgot alert message
+['INFO ]2023-06-19 13:10:42,350(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page
+['INFO ]2023-06-19 13:10:45,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page
+['INFO ]2023-06-19 13:10:48,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page
+['INFO ]2023-06-19 13:10:51,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-clickGet Startedlink on Array
+['INFO ]2023-06-19 13:10:52,041(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page
+['INFO ]2023-06-19 13:10:55,113(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-clickGet Startedlink on Array
+['INFO ]2023-06-19 13:10:55,556(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page
+['INFO ]2023-06-19 13:10:58,624(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-clickGet Startedlink on Array
+['INFO ]2023-06-19 13:10:58,981(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page
+['INFO ]2023-06-19 13:11:02,054(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-clickGet Startedlink on Array
+['INFO ]2023-06-19 13:11:02,442(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is on home page
+['INFO ]2023-06-19 13:11:05,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-clickGet Startedlink on Array
+['INFO ]2023-06-19 13:11:31,907(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is Redirected to Sign In page
+['INFO ]2023-06-19 13:11:42,279(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-user is Redirected to register page
+['INFO ]2023-06-19 13:11:42,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:42,659(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the warn message
+['WARN ]2023-06-19 13:11:42,765(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-06-19 13:11:42,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:42,964(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the warn message
+['WARN ]2023-06-19 13:11:43,031(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-06-19 13:11:43,400(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:43,469(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the warn message
+['WARN ]2023-06-19 13:11:43,521(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Please fill out this field.
+['INFO ]2023-06-19 13:11:43,844(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:44,025(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the error message
+['WARN ]2023-06-19 13:11:44,062(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-19 13:11:44,319(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:44,437(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the error message
+['WARN ]2023-06-19 13:11:44,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-19 13:11:44,904(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:45,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the error message
+['WARN ]2023-06-19 13:11:45,132(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-19 13:11:45,400(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:45,587(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the error message
+['WARN ]2023-06-19 13:11:45,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-19 13:11:45,865(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:46,034(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the error message
+['WARN ]2023-06-19 13:11:46,071(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-19 13:11:46,385(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:46,561(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-verify the error message
+['WARN ]2023-06-19 13:11:46,593(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-password_mismatch:The two password fields didn’t match.
+['INFO ]2023-06-19 13:11:46,845(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:47,037(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is Redirected to the Homepage with the messageNew Account Created. You are logged in as Aarthi
+['INFO ]2023-06-19 13:11:47,312(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Click Register Button
+['INFO ]2023-06-19 13:11:47,478(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is Redirected to the Homepage with the messageNew Account Created. You are logged in as gshx@sdet84_1
+['INFO ]2023-06-19 13:11:47,497(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-19 13:11:47,620(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----User Clicks on Register Link-----
+['INFO ]2023-06-19 13:11:47,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----User redirected to Page----Registration
+['INFO ]2023-06-19 13:11:47,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-19 13:11:47,982(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is Clicking login button with empty fields
+['INFO ]2023-06-19 13:11:48,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-19 13:11:48,254(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)---User Enters Only the User name--
+['INFO ]2023-06-19 13:11:48,334(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-----User can seePlease fill out this field.-----
+['INFO ]2023-06-19 13:11:48,341(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-19 13:11:48,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User Enters Only Password
+['INFO ]2023-06-19 13:11:48,566(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User can seePlease fill out this field.
+['INFO ]2023-06-19 13:11:48,575(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-------User is On Sign in page------
+['INFO ]2023-06-19 13:11:48,829(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)------User Clicks on Login button-----
+['INFO ]2023-06-19 13:11:49,092(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The actual Alert is:Invalid Username and Password
+['INFO ]2023-06-19 13:11:49,710(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the user is in the home page after logged in
+['INFO ]2023-06-19 13:11:50,052(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Data Structure Page introductionpage
+['INFO ]2023-06-19 13:11:50,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the user is in the home page after logged in
+['INFO ]2023-06-19 13:11:51,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Time Complexitypage
+['INFO ]2023-06-19 13:11:51,688(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the user is in the home page after logged in
+['INFO ]2023-06-19 13:11:51,690(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-the user clicksTry Hereand Time Complexity
+['INFO ]2023-06-19 13:11:51,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on TryEditorpage
+['INFO ]2023-06-19 13:18:57,241(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-19 13:18:57,247(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-19 13:18:57,248(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-19 13:18:57,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-19 13:19:04,750(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-19 13:19:10,284(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:19:11,419(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-19 13:19:11,466(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-19 13:19:13,088(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-19 13:19:13,121(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:13,125(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:16,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:16,057(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:16,161(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:19:16,452(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-19 13:19:16,471(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-19 13:19:16,754(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-19 13:19:16,781(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:16,782(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:16,876(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:16,876(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:16,943(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:19:17,128(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-19 13:19:17,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:17,139(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:17,298(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:17,299(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:17,372(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:19:17,537(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-19 13:19:17,550(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:17,551(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:17,748(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:19:17,748(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:19:17,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-19 13:19:18,003(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-19 13:19:18,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 13:19:18,664(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 13:19:18,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 13:19:18,896(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 13:21:40,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-19 13:21:40,793(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-19 13:21:40,794(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-19 13:21:40,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-19 13:21:46,549(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-19 13:21:51,791(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:21:52,951(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-19 13:21:52,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-19 13:21:54,098(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-19 13:21:54,135(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:54,141(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:55,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:55,429(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:55,537(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:21:55,817(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-19 13:21:55,834(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-19 13:21:56,283(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-19 13:21:56,298(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:56,299(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:56,383(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:56,384(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:56,497(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:21:56,692(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-19 13:21:56,711(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:56,712(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:56,800(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:56,802(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:56,912(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 13:21:57,068(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-19 13:21:57,081(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:57,082(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:57,178(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 13:21:57,179(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 13:21:57,252(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-19 13:21:57,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-19 13:21:57,435(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 13:21:58,069(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 13:21:58,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 13:21:58,379(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 18:02:57,546(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-19 18:02:57,578(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-19 18:02:57,578(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-19 18:02:57,579(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-19 18:03:08,849(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-19 18:03:15,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 18:03:17,127(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-19 18:03:17,156(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-19 18:03:18,200(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-19 18:03:18,240(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:18,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:22,233(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:22,234(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:22,369(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:22,370(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:22,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:22,465(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:22,545(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 18:03:23,187(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-19 18:03:23,213(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-19 18:03:23,488(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-19 18:03:23,511(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:23,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:23,610(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:23,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:23,699(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:23,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:23,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:23,787(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:23,850(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User gets the error message in an Alert
+['INFO ]2023-06-19 18:03:23,878(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 18:03:24,054(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-19 18:03:24,074(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:24,075(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:24,184(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:24,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:29,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:29,219(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:29,270(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:29,270(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:34,312(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-19 18:03:34,496(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-19 18:03:34,514(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:34,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:34,612(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:34,613(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:39,659(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-19 18:03:39,661(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-19 18:03:39,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-19 18:03:39,743(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-19 18:03:44,817(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-19 18:03:44,975(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-19 18:03:44,995(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 18:03:45,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 18:03:45,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-19 18:03:45,806(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page

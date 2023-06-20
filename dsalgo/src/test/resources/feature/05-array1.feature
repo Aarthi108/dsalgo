@@ -26,7 +26,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         0 |
+      | arrayXL    |         0 |
 
   @Array05
   Scenario Outline: Validation of error message for invalid python code in TryEditor page
@@ -37,7 +37,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         1 |
+      |  arrayXL   |         1 |
 
   @Array06
   Scenario: Validation of Arrays Using List link
@@ -60,7 +60,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         0 |
+      | arrayXL    |         2 |
 
   @Array09
   Scenario Outline: Validation of invalid python code in TryEditor page for Arrays Using List
@@ -71,7 +71,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         1 |
+      |  arrayXL   |         3 |
 
   @Array10
   Scenario: Validation of Basic Operations in Lists link
@@ -88,7 +88,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         0 |
+      |  arrayXL   |         4 |
 
   @Array12
   Scenario Outline: Validation of invalid python code in TryEditor page for Basic Operations in Lists
@@ -99,7 +99,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         1 |
+      |  arrayXL   |         5 |
 
   @Array13
   Scenario: Validation of Applications of Arrays link
@@ -116,7 +116,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         0 |
+      |   arrayXL  |         6 |
 
   @Array15
   Scenario Outline: Validation of invalid python code in TryEditor page for Applications of Array
@@ -127,7 +127,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         1 |
+      | arrayXL    |          7|
 
   @Array16
   Scenario: Validation of Practice Questions link
@@ -150,7 +150,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         2 |
+      | arrayXL    |         8 |
 
   @Array19
   Scenario Outline: Validation of Submit button in Practice Questions page for Search for Array link
@@ -161,7 +161,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         3 |
+      | arrayXL    |         9 |
 
   @Array20
   Scenario: Validation of Max Consecutive Ones link
@@ -178,7 +178,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         4 |
+      |  arrayXL   |         10 |
 
   @Array22
   Scenario Outline: Validation of Submit button in Practice Questions page for Max Consecutive Ones link
@@ -189,7 +189,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         5 |
+      | arrayXL    |        11 |
 
   @Array23
   Scenario: Validation of Find Numbers with Even Number of Digits link
@@ -206,7 +206,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         6 |
+      | arrayXL    |         12|
 
   @Array25
   Scenario Outline: Validation of Submit button in Practice Questions page for Find Numbers with Even Numbers of Digits link
@@ -217,7 +217,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         7 |
+      | arrayXL    |         13|
 
   @Array26
   Scenario: Validation of Squares of a Sorted Array link
@@ -234,7 +234,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         8 |
+      | arrayXL    |         14 |
 
   @Array28
   Scenario Outline: Validation of Submit button in Practice Questions page for Find Numbers with Even Numbers of Digits link
@@ -245,4 +245,4 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | PythonCode |         9 |
+      | arrayXL    |         15|

@@ -156,7 +156,7 @@ public void user_clicks_on_practice_questions_link() {
 
 @When("User clicks on Search the Array link")
 public void user_clicks_on_search_the_array_link() {
-   
+   array.Search_the_array();
 }
 
 @Then("User should be redirected to Questions page contains a tryEditor with Run and Submit buttons")
