@@ -3715,3 +3715,558 @@
 ['INFO ]2023-06-19 18:03:45,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
 ['INFO ]2023-06-19 18:03:45,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
 ['INFO ]2023-06-19 18:03:45,806(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:03:13,400(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 17:03:13,405(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 17:03:13,406(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 17:03:13,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 17:03:22,632(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 17:03:27,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:03:28,608(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 17:03:28,663(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:03:30,484(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:03:30,510(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:03:30,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:03:31,906(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:03:31,907(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:03:32,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:03:32,057(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:03:32,270(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:03:32,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:03:32,360(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:03:32,799(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 17:03:32,817(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 17:03:33,212(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:03:33,228(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:03:33,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:03:33,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:03:33,326(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:03:33,427(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:03:33,428(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:03:33,511(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:03:33,512(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:03:33,584(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User gets the error message in an Alert
+['INFO ]2023-06-20 17:03:33,601(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:03:33,752(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 17:03:33,767(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:03:33,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:03:34,010(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:03:34,010(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:03:39,065(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:03:39,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:03:39,246(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:03:39,247(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:03:44,278(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:03:44,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 17:03:44,412(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:03:44,413(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:03:44,727(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:03:44,728(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:09,665(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 17:26:09,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 17:26:09,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 17:26:09,701(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 17:26:22,364(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 17:26:27,685(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:26:28,660(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 17:26:28,722(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:26:30,076(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:26:30,106(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:30,109(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:35,741(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:35,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:35,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:35,894(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:36,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:36,005(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:36,089(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:26:36,356(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 17:26:36,374(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 17:26:36,699(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:26:36,723(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:36,723(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:36,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:36,820(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:36,933(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:36,935(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:37,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:37,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:37,090(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User gets the error message in an Alert
+['INFO ]2023-06-20 17:26:37,149(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:26:37,325(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 17:26:37,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:37,343(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:37,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:37,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:42,504(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:42,504(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:42,606(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:42,606(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:47,645(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:26:47,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 17:26:47,884(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:47,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:48,258(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:48,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:53,370(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:26:53,371(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:26:53,793(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:26:53,793(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:26:58,823(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:26:58,981(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-20 17:26:58,992(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:26:59,722(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:26:59,824(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:26:59,922(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:36:27,881(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 17:36:27,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 17:36:27,888(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 17:36:27,889(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 17:36:35,619(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 17:36:40,760(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:36:41,764(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 17:36:41,822(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:36:43,464(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:36:43,491(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:36:45,501(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:36:46,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:36:46,633(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:36:46,800(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:36:46,801(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:36:46,912(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:36:46,912(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:36:47,004(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:36:47,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 17:36:47,268(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 17:36:47,542(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:36:47,565(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:36:49,576(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:36:50,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:36:50,020(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:36:50,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:36:50,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:36:50,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:36:50,271(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:36:50,332(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User gets the error message in an Alert
+['INFO ]2023-06-20 17:36:50,348(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:36:50,534(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 17:36:50,544(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:36:52,554(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:36:53,610(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:36:53,611(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:36:58,646(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:36:58,647(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:36:58,765(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:36:58,765(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:37:03,848(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:37:04,025(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 17:37:04,039(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:37:06,055(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:37:06,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:37:06,133(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:37:11,241(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:37:13,244(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:37:13,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:37:13,330(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " null
+['INFO ]2023-06-20 17:37:18,391(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:37:18,597(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-20 17:37:18,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:37:19,320(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:37:19,513(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:37:19,806(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:43:48,851(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 17:43:48,858(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 17:43:48,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 17:43:48,859(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 17:43:55,604(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 17:44:00,736(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:44:02,335(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 17:44:02,377(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:44:03,622(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:44:03,657(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:05,677(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:06,809(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:06,812(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print array" 
+['INFO ]2023-06-20 17:44:10,342(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:10,343(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:10,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:10,518(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"phython list"
+['INFO ]2023-06-20 17:44:12,623(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:44:12,971(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 17:44:13,024(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 17:44:13,551(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:44:13,588(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:15,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:15,723(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:15,723(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print negative array list
+['INFO ]2023-06-20 17:44:17,847(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:17,848(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:18,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:18,080(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 17:44:20,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:44:20,351(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 17:44:20,372(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:22,384(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:22,522(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:22,523(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 17:44:29,591(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:29,592(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:29,660(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:29,662(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print user work on basic operation of list negative test"
+['INFO ]2023-06-20 17:44:36,718(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:44:36,912(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 17:44:36,929(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:38,937(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:39,532(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:39,532(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"Applications of Array"
+['INFO ]2023-06-20 17:44:46,592(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:44:48,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:44:48,905(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:44:48,905(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print invalid Applications of Array"
+['INFO ]2023-06-20 17:44:55,996(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:44:56,168(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-20 17:44:56,178(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:44:57,622(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:44:57,657(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:44:57,746(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:46:06,124(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 17:46:06,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 17:46:06,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 17:46:06,131(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 17:46:12,965(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 17:46:18,120(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:46:19,737(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 17:46:19,788(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:46:21,416(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:46:21,499(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:46:23,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:46:24,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is array
+['INFO ]2023-06-20 17:46:24,686(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"array"
+['INFO ]2023-06-20 17:46:26,830(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:46:26,831(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:46:27,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:46:27,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print array" 
+['INFO ]2023-06-20 17:46:30,004(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:46:30,318(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 17:46:30,378(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 17:46:30,915(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:46:30,940(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:46:32,956(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:46:33,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:46:33,653(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print negative array list
+['INFO ]2023-06-20 17:46:35,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:46:35,751(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:46:35,982(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:46:35,983(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 17:46:38,042(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:46:38,255(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 17:46:38,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:46:40,277(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:46:41,157(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:46:41,158(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 17:51:15,488(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 17:51:15,493(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 17:51:15,494(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 17:51:15,494(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 17:51:21,490(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 17:51:26,681(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:51:27,912(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 17:51:27,941(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:51:29,249(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:51:29,278(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:51:31,284(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:51:32,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is array
+['INFO ]2023-06-20 17:51:32,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"array"
+['INFO ]2023-06-20 17:51:34,708(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:51:34,709(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:51:34,798(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:51:34,799(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print array" 
+['INFO ]2023-06-20 17:51:41,923(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:51:42,197(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 17:51:42,235(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 17:51:42,572(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 17:51:42,626(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:51:44,652(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:51:44,773(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:51:44,773(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print negative array list
+['INFO ]2023-06-20 17:51:47,110(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:51:47,112(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:51:47,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:51:47,882(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 17:51:55,054(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:51:55,235(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 17:51:55,246(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:51:57,259(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:51:57,375(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:51:57,376(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 17:52:04,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:52:04,474(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:52:04,569(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:52:04,569(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print user work on basic operation of list negative test"
+['INFO ]2023-06-20 17:52:11,661(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 17:52:11,827(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 17:52:11,843(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:52:13,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:52:13,975(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:52:13,975(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"Applications of Array"
+['INFO ]2023-06-20 17:52:21,046(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 17:52:23,061(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 17:52:23,147(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 17:52:23,147(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print invalid Applications of Array"
+['INFO ]2023-06-20 17:52:30,215(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 17:52:30,353(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-20 17:52:30,360(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:52:30,855(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:52:30,960(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 17:52:31,106(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:45:40,138(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 18:45:40,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 18:45:40,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 18:45:40,144(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 18:45:48,972(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 18:45:54,143(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:45:55,447(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 18:45:55,488(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 18:45:56,619(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 18:45:56,650(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:45:58,658(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:00,129(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is array
+['INFO ]2023-06-20 18:46:00,130(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"array"
+['INFO ]2023-06-20 18:46:02,961(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:46:02,962(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:03,224(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:46:03,225(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print array" 
+['INFO ]2023-06-20 18:46:10,407(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:46:10,795(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 18:46:10,815(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 18:46:11,469(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 18:46:11,492(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:46:13,494(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:13,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:46:13,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"phython list"
+['INFO ]2023-06-20 18:46:16,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:46:16,182(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:16,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:46:16,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print negative array list
+['INFO ]2023-06-20 18:46:23,502(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:46:23,702(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 18:46:23,718(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:46:25,721(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:25,827(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:46:25,827(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 18:46:32,916(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:46:32,917(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:33,011(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:46:33,011(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print user work on basic operation of list negative test"
+['INFO ]2023-06-20 18:46:40,056(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:46:40,223(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 18:46:40,236(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:46:42,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:42,408(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:46:42,408(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"Applications of Array"
+['INFO ]2023-06-20 18:46:49,523(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:46:51,544(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:46:52,275(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:46:52,277(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print invalid Applications of Array"
+['INFO ]2023-06-20 18:46:59,381(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 18:46:59,649(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-20 18:46:59,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:47:00,403(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to Questions page having a Try Editor with Run button and Submit buttons
+['INFO ]2023-06-20 18:47:00,424(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Page Title is Assessment
+['INFO ]2023-06-20 18:47:00,441(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Search the arrayafter logged in 
+['INFO ]2023-06-20 18:47:00,674(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:47:00,674(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 8
+['INFO ]2023-06-20 18:47:02,562(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 8 : null
+['INFO ]2023-06-20 18:47:02,707(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:47:02,731(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Search the arrayafter logged in 
+['INFO ]2023-06-20 18:47:02,885(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:47:02,886(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Max Consecutive Ones link
+['INFO ]2023-06-20 18:47:07,954(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Max Consecutive Onesafter logged in 
+['INFO ]2023-06-20 18:47:08,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:47:08,217(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 10
+['INFO ]2023-06-20 18:47:10,230(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 10 : null
+['INFO ]2023-06-20 18:47:10,340(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:47:10,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Max Consecutive Onesafter logged in 
+['INFO ]2023-06-20 18:47:10,418(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:47:10,419(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Find Numbers with Even Number of Digits link
+['INFO ]2023-06-20 18:47:15,459(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+['INFO ]2023-06-20 18:47:15,637(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:47:15,638(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 12
+['INFO ]2023-06-20 18:47:17,078(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 12 : null
+['INFO ]2023-06-20 18:47:17,229(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:47:17,245(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+['INFO ]2023-06-20 18:47:17,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:47:17,295(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Squares of a Sorted Array link
+['INFO ]2023-06-20 18:47:22,374(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Squares of a Sorted Arrayafter logged in 
+['INFO ]2023-06-20 18:47:22,656(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:47:22,657(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 14
+['INFO ]2023-06-20 18:47:24,439(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 14 : null
+['INFO ]2023-06-20 18:47:24,563(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:47:24,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Squares of a Sorted Arrayafter logged in 
+['INFO ]2023-06-20 18:56:11,355(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 18:56:11,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 18:56:11,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 18:56:11,362(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 18:56:16,832(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 18:56:21,984(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:56:23,718(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 18:56:23,768(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 18:56:25,402(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 18:56:25,463(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:56:27,473(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:56:28,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is array
+['INFO ]2023-06-20 18:56:28,700(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"array"
+['INFO ]2023-06-20 18:56:35,938(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:56:35,939(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:56:36,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:56:36,172(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print array" 
+['INFO ]2023-06-20 18:56:43,329(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:56:43,725(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 18:56:43,759(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 18:56:44,105(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 18:56:44,157(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:56:46,170(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:56:46,657(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:56:46,658(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"phython list"
+['INFO ]2023-06-20 18:56:53,898(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:56:53,899(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:56:53,997(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:56:53,997(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print negative array list
+['INFO ]2023-06-20 18:57:01,169(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:57:01,414(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 18:57:01,425(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:57:03,438(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:57:04,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:57:04,186(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 18:57:11,305(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:57:11,307(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:57:11,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:57:11,691(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print user work on basic operation of list negative test"
+['INFO ]2023-06-20 18:57:18,766(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 18:57:18,959(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 18:57:18,977(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:57:20,978(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:57:21,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:57:21,070(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"Applications of Array"
+['INFO ]2023-06-20 18:57:28,157(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 18:57:30,167(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 18:57:30,354(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 18:57:30,355(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print invalid Applications of Array"
+['INFO ]2023-06-20 18:57:37,448(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 18:57:37,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-20 18:57:37,605(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:57:39,169(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to Questions page having a Try Editor with Run button and Submit buttons
+['INFO ]2023-06-20 18:57:39,185(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Page Title is Assessment
+['INFO ]2023-06-20 18:57:39,197(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Search the arrayafter logged in 
+['INFO ]2023-06-20 18:57:39,356(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:57:39,357(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 8
+['INFO ]2023-06-20 18:57:40,775(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 8 : null
+['INFO ]2023-06-20 18:57:40,908(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:57:40,921(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Search the arrayafter logged in 
+['INFO ]2023-06-20 18:57:40,975(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:57:40,980(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Max Consecutive Ones link
+['INFO ]2023-06-20 18:57:46,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Max Consecutive Onesafter logged in 
+['INFO ]2023-06-20 18:57:46,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:57:46,581(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 10
+['INFO ]2023-06-20 18:57:48,797(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 10 : null
+['INFO ]2023-06-20 18:57:48,869(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:57:48,883(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Max Consecutive Onesafter logged in 
+['INFO ]2023-06-20 18:57:48,916(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:57:48,917(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Find Numbers with Even Number of Digits link
+['INFO ]2023-06-20 18:57:53,986(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+['INFO ]2023-06-20 18:57:54,173(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:57:54,175(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 12
+['INFO ]2023-06-20 18:57:55,951(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 12 : null
+['INFO ]2023-06-20 18:57:56,024(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:57:56,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+['INFO ]2023-06-20 18:57:56,071(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 18:57:56,072(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Squares of a Sorted Array link
+['INFO ]2023-06-20 18:58:01,218(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Squares of a Sorted Arrayafter logged in 
+['INFO ]2023-06-20 18:58:01,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 18:58:01,515(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 14
+['INFO ]2023-06-20 18:58:03,197(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 14 : null
+['INFO ]2023-06-20 18:58:03,304(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 18:58:03,316(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Squares of a Sorted Arrayafter logged in 
+['INFO ]2023-06-20 19:16:35,887(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Loading Config file
+['INFO ]2023-06-20 19:16:35,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Get Browser Type from Properties
+['INFO ]2023-06-20 19:16:35,893(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-<-----Testing beforeclass---->
+['INFO ]2023-06-20 19:16:35,894(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Testing on chrome
+['INFO ]2023-06-20 19:16:42,265(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Initializing chrome driver
+['INFO ]2023-06-20 19:16:47,370(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 19:16:48,017(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays in Python
+['INFO ]2023-06-20 19:16:48,043(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 19:16:49,017(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 19:16:49,047(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:16:51,063(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:16:52,190(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is array
+['INFO ]2023-06-20 19:16:52,191(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"array"
+['INFO ]2023-06-20 19:16:54,524(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:16:54,525(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:16:54,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 19:16:54,621(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print array" 
+['INFO ]2023-06-20 19:17:01,857(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 19:17:02,269(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toArrays Using List
+['INFO ]2023-06-20 19:17:02,309(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays Using List
+['INFO ]2023-06-20 19:17:02,792(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to a page having Try Editor with a run button to test
+['INFO ]2023-06-20 19:17:02,818(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:17:04,833(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:17:04,973(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 19:17:04,973(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"phython list"
+['INFO ]2023-06-20 19:17:07,261(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:17:07,262(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:17:07,501(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 19:17:07,502(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print negative array list
+['INFO ]2023-06-20 19:17:14,742(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 19:17:14,926(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toBasic Operations in Lists
+['INFO ]2023-06-20 19:17:14,934(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:17:16,938(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:17:17,032(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 19:17:17,033(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"user work on basic operation of list"
+['INFO ]2023-06-20 19:17:24,086(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:17:24,087(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:17:24,165(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 19:17:24,166(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print user work on basic operation of list negative test"
+['INFO ]2023-06-20 19:17:31,260(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Array page
+['INFO ]2023-06-20 19:17:31,454(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toApplications of Array
+['INFO ]2023-06-20 19:17:31,476(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:17:33,488(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:17:33,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 19:17:33,826(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print"Applications of Array"
+['INFO ]2023-06-20 19:17:40,914(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Try Editor Page
+['INFO ]2023-06-20 19:17:42,920(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is on Try Editor page
+['INFO ]2023-06-20 19:17:43,006(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected Result is null
+['INFO ]2023-06-20 19:17:43,007(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters PythonCode as " print invalid Applications of Array"
+['INFO ]2023-06-20 19:17:50,066(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Arrays in Python page
+['INFO ]2023-06-20 19:17:50,227(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The array is redirected toPractice Questions
+['INFO ]2023-06-20 19:17:50,242(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 19:17:51,214(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is redirected to Questions page having a Try Editor with Run button and Submit buttons
+['INFO ]2023-06-20 19:17:51,225(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Page Title is Assessment
+['INFO ]2023-06-20 19:17:51,238(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Search the arrayafter logged in 
+['INFO ]2023-06-20 19:17:51,485(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 19:17:51,490(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 8
+['INFO ]2023-06-20 19:17:53,683(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 8 : null
+['INFO ]2023-06-20 19:17:53,790(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 19:17:53,798(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Search the arrayafter logged in 
+['INFO ]2023-06-20 19:17:53,877(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 19:17:53,878(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Max Consecutive Ones link
+['INFO ]2023-06-20 19:17:58,942(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Max Consecutive Onesafter logged in 
+['INFO ]2023-06-20 19:17:59,580(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 19:17:59,582(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 10
+['INFO ]2023-06-20 19:18:05,439(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 10 : null
+['INFO ]2023-06-20 19:18:05,522(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 19:18:05,527(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Max Consecutive Onesafter logged in 
+['INFO ]2023-06-20 19:18:05,559(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 19:18:05,560(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Find Numbers with Even Number of Digits link
+['INFO ]2023-06-20 19:18:10,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+['INFO ]2023-06-20 19:18:11,803(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 19:18:11,803(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 12
+['INFO ]2023-06-20 19:18:13,361(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 12 : null
+['INFO ]2023-06-20 19:18:13,430(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 19:18:13,441(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of FindNumberswithEvenNumberofDigitsafter logged in 
+['INFO ]2023-06-20 19:18:13,481(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-The user is on Practice page
+['INFO ]2023-06-20 19:18:13,482(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Squares of a Sorted Array link
+['INFO ]2023-06-20 19:18:18,578(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Squares of a Sorted Arrayafter logged in 
+['INFO ]2023-06-20 19:18:18,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Sheet Name  arrayXL
+['INFO ]2023-06-20 19:18:18,860(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User enters valid Python Code from Row Number 14
+['INFO ]2023-06-20 19:18:20,572(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Expected result from Excel sheetname arrayXL and 14 : null
+['INFO ]2023-06-20 19:18:20,635(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User clicks on Submit button
+['INFO ]2023-06-20 19:18:20,642(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-User is  on Question  page of Squares of a Sorted Arrayafter logged in 

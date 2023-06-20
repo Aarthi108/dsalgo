@@ -26,7 +26,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      | arrayXL    |         0 |
+      | arrayXL    |          0|
 
   @Array05
   Scenario Outline: Validation of error message for invalid python code in TryEditor page
@@ -37,7 +37,7 @@ Feature: The user is able to test the Array Page
 
     Examples: 
       | SheetName  | RowNumber |
-      |  arrayXL   |         1 |
+      |  arrayXL   |          1|
 
   @Array06
   Scenario: Validation of Arrays Using List link

@@ -14,6 +14,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import pageObjects.arraypage;
 import utilities.ConfigFileReader;
+
 import utilities.ExcelReader;
 import utilities.LoggerLoad;
 import utilities.Utility_Methods;
@@ -26,7 +27,7 @@ public class arraypage_SD {
 	static String PythonCode;
 	static String Output;
 	static String ExpectedResult,ExpectedError,expMsg;
-	String Excelpath=ConfigFileReader.getexcelfilepath();
+	public static String ExcelPath = ConfigFileReader.getexcelfilepath();
 
 @When("user clicks on Array getstarted")
 public void user_clicks_on_array_getstarted() {
@@ -63,11 +64,12 @@ public void user_should_be_redirected_to_a_page_having_an_try_editor_with_a_run_
 }
 
 @When("User enters valid Python code from sheet {string} and {int}")
-public void user_enters_valid_python_code_from_sheet_and(String SheetName, Integer RowNumber) throws RuntimeException, IOException {
+public void user_enters_valid_python_code_from_sheet_and(String SheetName, Integer RowNumber) throws RuntimeException, IOException, InterruptedException {
+	Thread.sleep(2000);
 	LoggerLoad.info("User is on Try Editor page");
 	ExcelReader reader = new ExcelReader();
 
-	List<Map<String, String>> testdata = reader.getData(Excelpath, SheetName);
+	List<Map<String, String>> testdata = reader.getData(ExcelPath, SheetName);
 	PythonCode = testdata.get(RowNumber).get("PythonCode");
 	ExpectedResult=testdata.get(RowNumber).get("Output");
 	LoggerLoad.info("Expected Result is "+ExpectedResult);
@@ -88,11 +90,11 @@ public void user_should_be_able_to_see_the_output() {
 }
 
 @When("User enters invalid Python code from sheet {string} and {int}")
-public void user_enters_invalid_python_code_from_sheet_and(String SheetName , Integer RowNumber ) throws EncryptedDocumentException, IOException {
+public void user_enters_invalid_python_code_from_sheet_and(String SheetName , Integer RowNumber ) throws EncryptedDocumentException, IOException, InterruptedException {
 	LoggerLoad.info("User is on Try Editor page");
 	ExcelReader reader = new ExcelReader();
 
-	List<Map<String, String>> testdata = reader.getData(Excelpath, SheetName);
+	List<Map<String, String>> testdata = reader.getData(ExcelPath, SheetName);
 	PythonCode = testdata.get(RowNumber).get("PythonCode");
 	ExpectedResult=testdata.get(RowNumber).get("Output");
 	LoggerLoad.info("Expected Result is "+ExpectedResult);
@@ -104,6 +106,11 @@ public void user_enters_invalid_python_code_from_sheet_and(String SheetName , In
 
 @Then("User should be able to see error message")
 public void user_should_be_able_to_see_error_message() {
+	LoggerLoad.info("User gets the error message in an Alert");
+	String fetchError = array.fetchErrorMessage();
+	String ExpectedError="NameError: name 'hello' is not defined on line 1";
+	LoggerLoad.info("Displayed Error Message  is "+fetchError);
+	assertEquals(fetchError,ExpectedError,"Invalid Syntax error message");
     
 }
 
@@ -161,47 +168,61 @@ public void user_clicks_on_search_the_array_link() {
 
 @Then("User should be redirected to Questions page contains a tryEditor with Run and Submit buttons")
 public void user_should_be_redirected_to_questions_page_contains_a_try_editor_with_run_and_submit_buttons() {
-    
+	LoggerLoad.info("User is redirected to Questions page having a Try Editor with Run button and Submit buttons");
+	String title=array.getPageTitle();
+	LoggerLoad.info("Page Title is " +title);
+	String expectedTitle="Assessment";
+	assertEquals(title,expectedTitle,"User is redirected to another page");
 }
 
 @Given("User is on {string} page of {string} after logged in")
-public void user_is_on_page_of_after_logged_in(String string, String string2) {
-    
+public void user_is_on_page_of_after_logged_in(String pageName1 , String pageName2) {
+	LoggerLoad.info("User is  on " +pageName1 + "  page of "+pageName2 + "after logged in ");
+	String pname=pageName1+pageName2.replaceAll("\\s+", "");
+	array.navigateTo(pname);
 }
 
 @When("User enters valid Python code from sheet {string} and {int} for the PracticeQuestions")
-public void user_enters_valid_python_code_from_sheet_and_for_the_practice_questions(String string, Integer int1) {
-    
+public void user_enters_valid_python_code_from_sheet_and_for_the_practice_questions(String sheetName, Integer rowNumber) throws InvalidFormatException, IOException {
+	LoggerLoad.info("User enters valid Python Code from Sheet Name  "+sheetName);
+	LoggerLoad.info("User enters valid Python Code from Row Number "+rowNumber);
+	array.enterPracticeQuestions(sheetName,rowNumber);
+	expMsg=array.getExpectedResult(sheetName, rowNumber);
 }
 
 @Then("User should be able to see the Result")
 public void user_should_be_able_to_see_the_result() {
-   
+	LoggerLoad.info("User clicks on Submit button");
+	 
 }
 
 @When("User clicks on Submit button")
 public void user_clicks_on_submit_button() {
-   
+	LoggerLoad.info("User clicks on Submit button");
+	array.clickSubmitButton(); 
 }
 
 @Then("User should get success submission message")
 public void user_should_get_success_submission_message() {
-   ;
+	LoggerLoad.info("User gets Success submission message");
 }
 
 @When("User clicks on Max Consecutive Ones link")
 public void user_clicks_on_max_consecutive_ones_link() {
-    
+	LoggerLoad.info("User clicks on Max Consecutive Ones link");
+	array.MaxConsecutiveOne();
 }
 
 @When("User clicks on Find Numbers with Even Number of Digits link")
 public void user_clicks_on_find_numbers_with_even_number_of_digits_link() {
-    
+	LoggerLoad.info("User clicks on Find Numbers with Even Number of Digits link");
+	array.FindNumbersEvenNoOfDigits();
 }
 
 @When("User clicks on Squares of a Sorted Array link")
 public void user_clicks_on_squares_of_a_sorted_array_link() {
-    
+	LoggerLoad.info("User clicks on Squares of a Sorted Array link");
+	array.SquaresOfSortedArray();
 }
 
 
